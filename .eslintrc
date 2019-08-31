@@ -1,0 +1,25 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "plugins": [
+    "react", 
+    "jsx-a11y", 
+    "import"
+  ],
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/forbid-prop-types": [0],
+    "no-debugger": [0],
+    "arrow-body-style": [0],
+    "react/sort-comp": [0],
+    "import/prefer-default-export": [0],
+    "react/jsx-curly-spacing": [2, "always"],
+    "no-case-declarations": [0],
+    "react/jsx-props-no-spreading": [0]
+  },
+  "globals": {
+    "fetch": "readonly",
+    "describe": "readonly",
+    "it": "readonly"
+  }
+}

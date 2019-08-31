@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1567222429961" clover="3.2.0">
+  <project timestamp="1567222429961" name="All files">
+    <metrics statements="73" coveredstatements="36" conditionals="27" coveredconditionals="7" methods="26" coveredmethods="3" elements="126" coveredelements="46" complexity="0" loc="73" ncloc="73" packages="6" files="13" classes="13"/>
+    <package name="assets.styles">
+      <metrics statements="15" coveredstatements="14" conditionals="14" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="global.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/assets/styles/global.js">
+        <metrics statements="15" coveredstatements="14" conditionals="14" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/components/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.PostList">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="PostList.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/components/PostList/PostList.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="PostList.styles.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/components/PostList/PostList.styles.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/components/PostList/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="containers.PostListContainer">
+      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+      <file name="PostListContainer.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/containers/PostListContainer/PostListContainer.js">
+        <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="state.post">
+      <metrics statements="18" coveredstatements="8" conditionals="5" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="actions.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/state/post/actions.js">
+        <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/state/post/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="reducers.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/state/post/reducers.js">
+        <metrics statements="5" coveredstatements="1" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="selectors.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/state/post/selectors.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="types.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/state/post/types.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="24" coveredstatements="3" conditionals="8" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="api.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/utils/api.js">
+        <metrics statements="13" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="helper.js" path="/Users/t/react-native/le-react-native-redux-saga-duck/src/utils/helper.js">
+        <metrics statements="11" coveredstatements="1" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="1" type="cond" truecount="0" falsecount="2"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
